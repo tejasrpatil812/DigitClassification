@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CameraAppProject</string>
+    <string-array name="image_categories">
+        <item>Animals</item>
+        <item>Human</item>
+        <item>House</item>
+        <item>Fruits</item>
+        <item>Chair</item>
+        <item>Computer</item>
+        <item>Aeroplane</item>
+    </string-array>
+</resources>
